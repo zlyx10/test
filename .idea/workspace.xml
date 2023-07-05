@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a937f62f-45f5-406b-941a-e0da8243787f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\MavenRepository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NiK6zljoLdqNpP0o0uAa6DxGgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server_find01/target/classes/com/bfxx/netty" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bfxx.websocket" />
+      <recent name="com.bfxx.redis.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\target\classes\com\bfxx\netty" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\config" />
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\src\main\java" />
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\src\main\resources\static" />
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\src\main\java\com\bfxx\netty" />
+      <recent name="E:\桌面文件\java_learning\server_find\server_find01\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bfxx" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bfxx.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServerFind01Application">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.TestString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server_find01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bfxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bfxx" />
+      <option name="MAIN_CLASS_NAME" value="com.bfxx.RedisTest" />
+      <option name="METHOD_NAME" value="TestString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server_find01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bfxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bfxx" />
+      <option name="MAIN_CLASS_NAME" value="com.bfxx.redisTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server_find01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bfxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bfxx" />
+      <option name="MAIN_CLASS_NAME" value="com.bfxx.redisTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redisTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server_find01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bfxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bfxx" />
+      <option name="MAIN_CLASS_NAME" value="com.bfxx.redisTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerFind01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server_find01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bfxx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bfxx.ServerFind01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServerFind01Application" />
+        <item itemvalue="JUnit.redisTest.test3" />
+        <item itemvalue="JUnit.redisTest.test2" />
+        <item itemvalue="JUnit.redisTest.test1" />
+        <item itemvalue="JUnit.RedisTest.TestString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a937f62f-45f5-406b-941a-e0da8243787f" name="Default Changelist" comment="" />
+      <created>1680141293963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680141293963</updated>
+      <workItem from="1680141295025" duration="4868000" />
+      <workItem from="1680156177648" duration="13174000" />
+      <workItem from="1680225788161" duration="6100000" />
+      <workItem from="1680242591096" duration="8519000" />
+      <workItem from="1680661988304" duration="18887000" />
+      <workItem from="1681030622344" duration="8870000" />
+      <workItem from="1687249736500" duration="422000" />
+      <workItem from="1688365368946" duration="583000" />
+      <workItem from="1688366340708" duration="625000" />
+      <workItem from="1688372328079" duration="53000" />
+      <workItem from="1688372602088" duration="144000" />
+      <workItem from="1688437198627" duration="81000" />
+      <workItem from="1688438180207" duration="43000" />
+      <workItem from="1688545396894" duration="11000" />
+      <workItem from="1688545422167" duration="3586000" />
+      <workItem from="1688553918095" duration="7815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
